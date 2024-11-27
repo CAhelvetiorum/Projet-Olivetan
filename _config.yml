@@ -12,9 +12,9 @@ title                    : "Caleb Abraham & Quentin Roca / Projet Olivétan"
 title_separator          : "-"
 name                     : &name "Caleb Abraham & Quentin Roca"
 description              : &description "Projet d'édition de la Bible Olivétan (1535)"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://CAhelvetiorum.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/Projet-Olivetan"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://CAhelvetiorum.github.io # the base hostname & protocol for your site e.g. "https://CAhelvetiorum.github.io"
+baseurl                  : "/Projet-Olivetan" # the subpath of your site, e.g. "/Projet-Olivetan"
+repository               : "github.com/CAhelvetiorum/Projet-Olivetan.git"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
